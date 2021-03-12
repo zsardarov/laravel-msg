@@ -5,7 +5,7 @@ The package for sending SMS messages using [MSG.ge](https://smsservice.ge/) API.
 ```bash
 composer require zsardarov/laravel-msg
 ```
-Your can publish config using:
+You can publish config using:
 
 ```bash
 php artisan vendor:publish --provider="Zsardarov\Msg\MsgServiceProvider"
